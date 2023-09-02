@@ -14,6 +14,7 @@ Use the arrow left and right keys to move.
 ## Developer Information
 
 Developer: Ji Ho Nam
+
 Email: wlgh0123456@gmail.com
 
 ## Additional Information
