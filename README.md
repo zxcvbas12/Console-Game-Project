@@ -2,7 +2,7 @@
 
 Welcome to this project, a console-based game that you can enjoy right from your Visual Studio console window!
 
-## 소개
+## Introduce
 
 It is an exciting and challenging game designed to provide you with fun and challenges. Get the highest score by getting the points that come down towards the highest score! Get into the immersive world of console games.
 
