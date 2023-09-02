@@ -11,9 +11,10 @@ It is an exciting and challenging game designed to provide you with fun and chal
 Mastering the controls is essential to conquering this game. Here's how you can control your character:
 Use the arrow left and right keys to move.
 
-##Developer Information
-###Developer: Ji Ho Nam
-###Email: wlgh0123456@gmail.com
+## Developer Information
+
+Developer: Ji Ho Nam
+Email: wlgh0123456@gmail.com
 
 ## Additional Information
 
