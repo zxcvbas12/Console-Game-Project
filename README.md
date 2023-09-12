@@ -10,6 +10,8 @@ It is an exciting and challenging game designed to provide you with fun and chal
 
 Mastering the controls is essential to conquering this game. Here's how you can control your character:
 Use the arrow left and right keys to move.
+![conP1](https://github.com/zxcvbas12/Console-Game-Project/assets/123799257/82ee8778-7635-4fbb-bc7a-7ba25b5bf341)
+
 
 ## Developer Information
 
